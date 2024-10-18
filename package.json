@@ -1,0 +1,21 @@
+{
+  "name": "data-apps-tool",
+  "version": "0.0.1",
+  "description": "data-apps-tool",
+  "main": "index.js",
+  "bin": {
+    "data-apps-tool": "bin/cli.js",
+    "dat": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "data-apps-tool portal"
+  },
+  "keywords": [],
+  "author": "@serapath",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^4.0.1",
+    "graceful-goodbye": "^1.3.0",
+    "ws": "^8.18.0"
+  }
+}
