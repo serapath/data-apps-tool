@@ -10,6 +10,14 @@
   "scripts": {
     "start": "data-apps-tool portal"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serapath/data-apps-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serapath/data-apps-tool/issues"
+  },
+  "homepage": "https://serapath.github.io/data-apps-tool",
   "keywords": [],
   "author": "@serapath",
   "license": "MIT",
