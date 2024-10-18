@@ -1,6 +1,6 @@
 {
   "name": "data-apps-tool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "data-apps-tool",
   "main": "index.js",
   "bin": {
